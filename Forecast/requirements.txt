@@ -4,3 +4,4 @@ matplotlib
 prophet
 openpyxl
 numpy
+groq
